@@ -30,8 +30,6 @@ Runs entirely on **free-tier APIs** (Groq for STT + LLM, Google TTS for speech).
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&pause=1000&color=10B981&background=0D1117&width=550&height=120&lines=%5B%2B%5D+Bot+logged+into+Discord!;%5BVoice%5D+User+joined+%23General;%5BSTT%5D+Transcribing...+%22Hello+AI!%22;%5BLLM%5D+Thinking...+Generating+response;%5BTTS%5D+Playing+audio+in+voice+channel;%5B%2B%5D+Ready+for+next+command" alt="Terminal Demo" />
 </p>
 
-> *💡 Tip: Replace this animated terminal placeholder with a real 30s screen-recording GIF of the bot inside a Discord voice channel!*
-
 ## 🚀 Quick Start
 
 **1. Clone & install**
