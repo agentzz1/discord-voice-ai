@@ -1,3 +1,5 @@
 node_modules/
 .env
 tmp-recordings/
+*.mp3
+LAUNCH_POSTS.md
